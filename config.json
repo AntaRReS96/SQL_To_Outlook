@@ -1,0 +1,123 @@
+{
+    "mail": [
+        {
+            "function_name": "send_prod_ord('BU1')",
+            "to": "us.er@ex.ample",
+            "cc": "us.er@ex.ample",
+            "subject": "Zamknięcie projektów (Zlecenia Produkcyjne)",
+            "text": "(User), <br><br> Poniższe projekty są skierowane do zamknięcia. <br> Proszę o zamknięcie poniższych zleceń produkcyjnych:"
+        },
+        {
+            "function_name": "send_prod_ord('BU2')",
+            "to": "us.er@ex.ample",
+            "cc": "us.er@ex.ample",
+            "subject": "Zamknięcie projektów (Zlecenia Produkcyjne)",
+            "text": "(User), <br><br> Poniższe projekty są skierowane do zamknięcia. <br> Proszę o zamknięcie poniższych zleceń produkcyjnych:"
+        },
+        {
+            "function_name": "send_prod_ord('BU3')",
+            "to": "us.er@ex.ample",
+            "cc": "us.er@ex.ample",
+            "subject": "Zamknięcie projektów (Zlecenia Produkcyjne)",
+            "text": "(User), <br><br> Poniższe projekty są skierowane do zamknięcia. <br> Proszę o zamknięcie poniższych zleceń produkcyjnych:"
+        },
+        {
+            "function_name": "send_planned_prod_ord('BU1')",
+            "to": "us.er@ex.ample",
+            "cc": "us.er@ex.ample",
+            "subject": "Zamknięcie projektów (Planowane Zlecenia Produkcyjne)",
+            "text": "(User), <br><br> Poniższe projekty są skierowane do zamknięcia. <br> Zlecenia produkcyjne są w statusie planned. <br> Czy projekty powinny pozostać jeszcze otwarte? <br> Jeśli tak to do kiedy?"
+        },
+        {
+            "function_name": "send_planned_prod_ord('BU2')",
+            "to": "us.er@ex.ample",
+            "cc": "us.er@ex.ample",
+            "subject": "Zamknięcie projektów (Planowane Zlecenia Produkcyjne)",
+            "text": "(User), <br><br> Poniższe projekty są skierowane do zamknięcia. <br> Zlecenia produkcyjne są w statusie planned. <br> Czy projekty powinny pozostać jeszcze otwarte? <br> Jeśli tak to do kiedy?"
+        },
+        {
+            "function_name": "send_planned_prod_ord('BU3')",
+            "to": "us.er@ex.ample",
+            "cc": "us.er@ex.ample",
+            "subject": "Zamknięcie projektów (Planowane Zlecenia Produkcyjne)",
+            "text": "(User), <br><br> Poniższe projekty są skierowane do zamknięcia. <br> Zlecenia produkcyjne są w statusie planned. <br> Czy projekty powinny pozostać jeszcze otwarte? <br> Jeśli tak to do kiedy?"
+        },
+        {
+            "function_name": "send_machine_MM_inv_WHR20_WHR50('BU1')",
+            "to": "us.er@ex.ample",
+            "cc": "us.er@ex.ample",
+            "subject": "Zamknięcie projektów (Detale Mechaniczne)",
+            "text": "(User), <br><br> Poniższe projekty są skierowane do zamknięcia. <br> Czy wykorzystamy wskazane detale w innych projektach?"
+        },
+        {
+            "function_name": "send_machine_MM_inv_WHR20_WHR50('BU2')",
+            "to": "us.er@ex.ample",
+            "cc": "us.er@ex.ample",
+            "subject": "Zamknięcie projektów (Detale Mechaniczne)",
+            "text": "(User), <br><br> Poniższe projekty są skierowane do zamknięcia. <br> Czy wykorzystamy wskazane detale w innych projektach?"
+        },
+        {
+            "function_name": "send_machine_MM_inv_WHR20_WHR50('BU3')",
+            "to": "us.er@ex.ample",
+            "cc": "us.er@ex.ample",
+            "subject": "Zamknięcie projektów (Detale Mechaniczne)",
+            "text": "(User), <br><br> Poniższe projekty są skierowane do zamknięcia. <br> Czy wykorzystamy wskazane detale w innych projektach?"
+        },
+        {
+            "function_name": "send_machine_EM_inv_WHR20_WHR50('BU1')",
+            "to": "us.er@ex.ample",
+            "cc": "us.er@ex.ample",
+            "subject": "Zamknięcie projektów (Detale Elektryczne)",
+            "text": "(User), <br><br> Poniższe projekty są skierowane do zamknięcia. <br> Czy wykorzystamy wskazane detale w innych projektach?"
+        },
+        {
+            "function_name": "send_machine_EM_inv_WHR20_WHR50('BU2')",
+            "to": "us.er@ex.ample",
+            "cc": "us.er@ex.ample",
+            "subject": "Zamknięcie projektów (Detale Elektryczne)",
+            "text": "(User), <br><br> Poniższe projekty są skierowane do zamknięcia. <br> Czy wykorzystamy wskazane detale w innych projektach?"
+        },
+        {
+            "function_name": "send_machine_EM_inv_WHR20_WHR50('BU3')",
+            "to": "us.er@ex.ample",
+            "cc": "us.er@ex.ample",
+            "subject": "Zamknięcie projektów (Detale Elektryczne)",
+            "text": "(User), <br><br>  Poniższe projekty są skierowane do zamknięcia. <br> Czy wykorzystamy wskazane detale w innych projektach?"
+        },
+        {
+            "function_name": "send_machine_prp('BU1')",
+            "to": "us.er@ex.ample",
+            "cc": "us.er@ex.ample",
+            "subject": "Zamknięcie projektów (PRP)",
+            "text": "(User), <br><br> Poniższe projekty są skierowane do zamknięcia. <br> Obsłużysz poniższe PRP, żeby nie blokowały zamknięcia?"
+        },
+        {
+            "function_name": "send_machine_prp('BU2')",
+            "to": "us.er@ex.ample",
+            "cc": "us.er@ex.ample",
+            "subject": "Zamknięcie projektów (PRP)",
+            "text": "(User), <br><br> Poniższe projekty są skierowane do zamknięcia. <br> Obsłużycie poniższe PRP, żeby nie blokowały zamknięcia?"
+        },
+        {
+            "function_name": "send_machine_prp('BU3')",
+            "to": "us.er@ex.ample",
+            "cc": "us.er@ex.ample",
+            "subject": "Zamknięcie projektów (PRP)",
+            "text": "(User), <br><br> Poniższe projekty są skierowane do zamknięcia. <br> Obsłużysz poniższe PRP, żeby nie blokowały zamknięcia?"
+        },
+        {
+            "function_name": "send_service_inv_prp()",
+            "to": "us.er@ex.ample",
+            "cc": "us.er@ex.ample",
+            "subject": "Zamknięcie projektów usługowych (Detale i PRP)",
+            "text": "(User), <br><br> Poniższe projekty są skierowane do zamknięcia. <br> Zajmiecie się Detalami oraz PRP?"
+        },
+        {
+            "function_name": "send_inv_WHR60_WHR70()",
+            "to": "us.er@ex.ample",
+            "cc": "us.er@ex.ample",
+            "subject": "Zamknięcie projektów (Detale WHR60-WHR70)",
+            "text": "(User), <br><br> Poniższe projekty są skierowane do zamknięcia. <br> Zajmiesz się Detalami WHR60, WHR70 z poniższej listy?"
+        }
+    ]
+}
